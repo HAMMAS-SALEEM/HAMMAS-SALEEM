@@ -5,6 +5,7 @@ Welcome!
 You have finally discovered my Github profile.
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
-or email me
+or email me 
+hammassaleem376@gmail.com
 
 Happy Coding! 😊
