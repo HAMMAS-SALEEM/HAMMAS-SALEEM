@@ -11,7 +11,7 @@
 - I am currently working to become a software developer capable of building amazing things.
 - Student at [Microverse](https://www.microverse.org/)
 
-⭐️ From [orozCoding](https://github.com/HAMAS-SALEEM)
+⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
 
 ## You can get in touch with me on
 <a href="https://twitter.com/HammasSaleem4">
