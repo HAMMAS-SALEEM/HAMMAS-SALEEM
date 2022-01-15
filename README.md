@@ -1,11 +1,11 @@
-<p align='center'><img src="https://www.baltana.com/files/wallpapers-5/Programmer-Background-Wallpaper-17570.png" alt="TheAbbie" width="1500" height="200"></p>
-<br>
+<p align="center"><a href="https://www.quoteslyfe.com/quote/Never-lose-hope-because-ALLAH-is-always-187669"><img src="https://www.quoteslyfe.com/images/collection3/quotations187/Never-lose-hope-because-ALLAH-is-always-187669.jpg" height="180px" width="600px"></a></p>
+
 
 # 𝐇𝐞𝐥𝐥𝐨 World<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<br>
 
 ## I'm Hammas Bin Saleem
 #### Full-stack Software Developer in the Making
-
 
 - 🔭 I’m currently working on Microverse Projects 
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
@@ -18,10 +18,10 @@
 ## Find me around the web 🌎 :
 
 <a href="https://twitter.com/HammasSaleem4">
-  <img align="left" alt="Angel's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Hammas's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/HAMMAS-SALEEM-407/">
-  <img align="left" alt="Angel's Linkdein" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hammas's Linkdein" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/HAMMAS-SALEEM">
   <img align="left" alt="HAMMAS's GitHub" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -32,7 +32,7 @@
 </a>  
 
 
-<br><br><br><br>
+<br><br>
 
 # Github's Status
 
