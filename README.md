@@ -25,9 +25,13 @@
 
 # Github's Status
 
-![HAMMAS'S GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical)
-
-[![Most used lanugage](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMAS-SALEEM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+   <a href="https://github.com/shoirata">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMAS-SALEEM&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
+  </a>
+</p>
+</h3>
 
 
 
