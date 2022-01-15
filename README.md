@@ -10,6 +10,7 @@
 ⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
 
 #### Find me around the web 🌎:
+
 <a href="https://twitter.com/HammasSaleem4">
   <img align="left" alt="Angel's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,7 +25,7 @@
 
 # Github's Status
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true"/>](https://github.com/HAMMAS-SALEEM/)
+[<img width="400" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true"/>](https://github.com/HAMMAS-SALEEM/)
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
