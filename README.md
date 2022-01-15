@@ -9,16 +9,17 @@
 
 ⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
 
-## You can get in touch with me on
+#### Find me around the web 🌎:
 <a href="https://twitter.com/HammasSaleem4">
-  <img align="left" alt="Angel's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Angel's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/HAMMAS-SALEEM-407/">
-  <img align="left" alt="Angel's Linkdein" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Angel's Linkdein" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/orozCoding">
-  <img align="left" alt="Angel's GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/HAMMAS-SALEEM">
+  <img align="left" alt="HAMMAS's GitHub" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <br><br><br><br>
 
 # Github's Status
@@ -28,6 +29,6 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
 or email me 
-hammassaleem376@gmail.com
+http://hammassaleem376@gmail.com
 
 Happy Coding! 😊
