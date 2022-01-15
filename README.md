@@ -27,6 +27,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
