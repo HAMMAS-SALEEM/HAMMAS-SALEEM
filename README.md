@@ -29,7 +29,6 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true"/>](https://github.com/HAMMAS-SALEEM/)
 
-<br><br><br><br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
 or email me 
