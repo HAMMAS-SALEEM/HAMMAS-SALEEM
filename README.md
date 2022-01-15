@@ -11,8 +11,9 @@
 
 
 
-## Find me around the web 🌎
-<br>
+
+## Find me around the web 🌎 :
+
 <a href="https://twitter.com/HammasSaleem4">
   <img align="left" alt="Angel's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,6 +23,7 @@
 <a href="https://github.com/HAMMAS-SALEEM">
   <img align="left" alt="HAMMAS's GitHub" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <a href="http://HAMMAS-SALEEM.github.io/Portfolio">
 <img align="left" alt="HAMMAS's GitHub" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>  
@@ -49,5 +51,4 @@ http://hammassaleem376@gmail.com
 ⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
 
 Happy Coding! 😊
-
 
