@@ -25,9 +25,9 @@
 
 # Github's Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical)
+![HAMMAS'S GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used lanugage](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMAS-SALEEM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
