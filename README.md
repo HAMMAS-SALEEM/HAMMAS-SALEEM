@@ -2,18 +2,14 @@
 
 
 # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-<br>
 
-## I'm Hammas Bin Saleem
+### **I'm Hammas Bin Saleem**
 #### Full-stack Software Developer in the Making
 
-- 🔭 I’m currently working on Microverse Projects 
-- 🌱 I’m currently learning HTML, CSS, JavaScript 
+- 🔭 I’m currently working on JavaScript Frameworks such as **React** 
+- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` 
 - 👯 I’m looking to collaborate on JavaScript projects. 
 - ⚡ Fun fact: I am Singer. 
-
-
-
 
 ## Find me around the web 🌎 :
 
