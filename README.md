@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on JavaScript projects. 
 - ⚡ Fun fact: I am Singer. 
 
-## Find me around the web 🌎 :
+## Find me around the web 🌎
 
 <a href="https://twitter.com/HammasSaleem4">
   <img align="left" alt="Hammas's Twitter" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
