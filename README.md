@@ -27,7 +27,6 @@
 <img align="left" alt="HAMMAS's GitHub" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>  
 
-
 <br><br>
 
 # Github's Status
