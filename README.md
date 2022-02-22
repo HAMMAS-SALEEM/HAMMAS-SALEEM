@@ -21,13 +21,9 @@
 
 <h3>Languages</h3>
 <p>
-   <a href="https://www.php.net/" target="_blank"> 
+   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-      alt="php"/> 
-  </a>
-  <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
-      alt="ruby"/> 
+      alt="sql"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
