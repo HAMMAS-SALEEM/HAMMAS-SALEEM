@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
 - 🌱 I’m currently learning `HTML` `CSS` `JavaScript` 
-- 👯 I’m looking to collaborate on JavaScript projects. 
+- 👯 I’m looking to collaborate on JavaScript, React projects.
+- 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I am Singer. 
 
 <br />
