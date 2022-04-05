@@ -80,8 +80,15 @@
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+      alt="sqlite"/>
   </a> 
+      <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
+      <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/> 
+  </a>
+  </a> 
+      <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  </a>
 </p>
 <p>
 <h3>Cloud & Hosting:</h3>
@@ -116,6 +123,9 @@
   </a>
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 
