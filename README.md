@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently working at **Microverse** <img align="right" width=300 src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
-- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` 
-- 👯 I’m looking to collaborate on JavaScript, React projects.
+- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `Ruby`
+- 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I am Singer. 
+- ⚡ Fun fact: I am Singer.
 
 <br />
 <h3> 👱 Visitors count </h3>
