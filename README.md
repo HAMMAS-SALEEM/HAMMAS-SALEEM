@@ -7,7 +7,7 @@
 ### **I'm Hammas Bin Saleem**
 #### Full-stack Software Developer in the Making
 
-- 🌱 I’m currently working at **Microverse** <img align="right" width=300 src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently working at **Microverse**
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
