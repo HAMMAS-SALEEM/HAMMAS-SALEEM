@@ -7,7 +7,7 @@
 ### **I'm Hammas Bin Saleem**
 #### Full-stack Software Developer in the Making
 
-- 🌱 I’m currently working at **Microverse**
+- 🌱 I’m currently working as a **Freelancer** and open to new job opportunities.
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
