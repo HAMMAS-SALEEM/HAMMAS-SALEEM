@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently working as a **Freelancer** and open to new job opportunities.
 - 🔭 I’m currently working on JavaScript Frameworks such as **React** 
-- 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
+- 🌱 I’m working with `HTML` `CSS` `JavaScript` `React.JS`, `Ruby` `Ruby on Rails`, `PostgreSQL` `Oracle`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I am Singer.
+- ⚡ Fun fact: I am Singer so having friendship with me will never bore you.
 
 <br />
 <h3> 👱 Visitors count </h3>
